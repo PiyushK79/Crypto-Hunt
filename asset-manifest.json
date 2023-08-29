@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Crypto-Hunt/static/css/main.f1f0a29d.css",
+    "main.js": "/Crypto-Hunt/static/js/main.625dc765.js",
+    "static/media/icon2.jpg": "/Crypto-Hunt/static/media/icon2.b9fcb4ba443582d6a43c.jpg",
+    "static/media/noImage.png": "/Crypto-Hunt/static/media/noImage.8106f1ed92991c1a4d6d.png",
+    "index.html": "/Crypto-Hunt/index.html",
+    "main.f1f0a29d.css.map": "/Crypto-Hunt/static/css/main.f1f0a29d.css.map",
+    "main.625dc765.js.map": "/Crypto-Hunt/static/js/main.625dc765.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1f0a29d.css",
+    "static/js/main.625dc765.js"
+  ]
+}
